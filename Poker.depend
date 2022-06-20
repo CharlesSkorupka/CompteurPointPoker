@@ -1,0 +1,404 @@
+# depslib dependency file v1.0
+1619014108 source:c:\users\yves\documents\_jobs\_clients\isen\adimaker - annee2020-21\adi2\c++\poker\main.cpp
+	<iostream>
+	<vector>
+	<stdexcept>
+	<algorithm>
+	"card.h"
+
+1619014243 source:c:\users\yves\documents\_jobs\_clients\isen\adimaker - annee2020-21\adi2\c++\poker\src\card.cpp
+	<stdexcept>
+	"Card.h"
+
+1619014218 c:\users\yves\documents\_jobs\_clients\isen\adimaker - annee2020-21\adi2\c++\poker\include\card.h
+	<iostream>
+	<vector>
+	<map>
+
+1622451966 source:c:\users\charl\desktop\adimaker\adi2\elec\c==\poker vbien\poker (2)\poker\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<algorithm>
+	<vector>
+	<string.h>
+	<array>
+	"Hauteur.h"
+	"include/Card.h"
+	"Color.h"
+	"Suite.h"
+	"Doublet.h"
+	"Brelan.h"
+	"Carre.h"
+	"DoublePaire.h"
+	"Full.h"
+	"QuinteFlush.h"
+	"NomMain.h"
+
+1619010618 c:\users\charl\desktop\adimaker\adi2\elec\c==\poker vbien\poker (2)\poker\include\card.h
+	<iostream>
+	<vector>
+	<map>
+
+1622394771 source:c:\users\charl\desktop\adimaker\adi2\elec\c==\poker vbien\poker (2)\poker\src\card.cpp
+	<stdexcept>
+	"Card.h"
+
+1622406421 source:c:\users\charl\desktop\adimaker\adi2\elec\c==\poker vbien\poker (2)\poker\src\hauteur.cpp
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<algorithm>
+	"Hauteur.h"
+	"Card.h"
+
+1622397464 c:\users\charl\desktop\adimaker\adi2\elec\c==\poker vbien\poker (2)\poker\include\hauteur.h
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	"Card.h"
+
+1622397671 source:c:\users\charl\desktop\adimaker\adi2\elec\c==\poker vbien\poker (2)\poker\src\generjeuxcarte.cpp
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	"Card.h"
+	<algorithm>
+	"Hauteur.h"
+
+1622397663 c:\users\charl\desktop\adimaker\adi2\elec\c==\poker vbien\poker (2)\poker\include\generjeuxcarte.h
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	"Card.h"
+
+1622397651 c:\users\charl\desktop\adimaker\adi2\elec\c==\poker vbien\poker (2)\poker\include\genermain.h
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	"Card.h"
+
+1622397644 source:c:\users\charl\desktop\adimaker\adi2\elec\c==\poker vbien\poker (2)\poker\src\genermain.cpp
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	"Card.h"
+	<algorithm>
+	"GenerMain.h"
+	<time.h>
+
+1622402516 source:c:\users\charl\desktop\adimaker\adi2\elec\c==\poker vbien\poker (2)\poker\src\color.cpp
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<algorithm>
+	"Color.h"
+	"Card.h"
+
+1622402515 c:\users\charl\desktop\adimaker\adi2\elec\c==\poker vbien\poker (2)\poker\include\color.h
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	"Card.h"
+
+1622406226 c:\users\charl\desktop\adimaker\adi2\elec\c==\poker vbien\poker (2)\poker\include\suite.h
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	"Card.h"
+
+1622406197 source:c:\users\charl\desktop\adimaker\adi2\elec\c==\poker vbien\poker (2)\poker\src\suite.cpp
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<algorithm>
+	"Suite.h"
+	"Card.h"
+
+1622403691 c:\users\charl\desktop\adimaker\adi2\elec\c==\poker vbien\poker (2)\poker\include\doublet.h
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	"Card.h"
+
+1622404668 source:c:\users\charl\desktop\adimaker\adi2\elec\c==\poker vbien\poker (2)\poker\src\doublet.cpp
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<algorithm>
+	"Doublet.h"
+	"Card.h"
+
+1622403316 source:c:\users\charl\desktop\adimaker\adi2\elec\c==\poker vbien\poker (2)\poker\src\brelan.cpp
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<algorithm>
+	"Brelan.h"
+	"Card.h"
+
+1622403346 c:\users\charl\desktop\adimaker\adi2\elec\c==\poker vbien\poker (2)\poker\include\brelan.h
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	"Card.h"
+
+1622410261 source:c:\users\charl\desktop\adimaker\adi2\elec\c==\poker vbien\poker (2)\poker\src\carre.cpp
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<algorithm>
+	"Carre.h"
+	"Card.h"
+
+1622410282 c:\users\charl\desktop\adimaker\adi2\elec\c==\poker vbien\poker (2)\poker\include\carre.h
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	"Card.h"
+
+1622405662 c:\users\charl\desktop\adimaker\adi2\elec\c==\poker vbien\poker (2)\poker\include\full.h
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	"Card.h"
+
+1622405790 source:c:\users\charl\desktop\adimaker\adi2\elec\c==\poker vbien\poker (2)\poker\src\full.cpp
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<algorithm>
+	"Full.h"
+	"Card.h"
+	"Brelan.h"
+	"Doublet.h"
+
+1622415113 source:c:\users\charl\desktop\adimaker\adi2\elec\c==\poker vbien\poker (2)\poker\src\doublepaire.cpp
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<algorithm>
+	"DoublePaire.h"
+	"Card.h"
+	"Doublet.h"
+
+1622403528 c:\users\charl\desktop\adimaker\adi2\elec\c==\poker vbien\poker (2)\poker\include\doublepaire.h
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	"Card.h"
+
+1622405872 c:\users\charl\desktop\adimaker\adi2\elec\c==\poker vbien\poker (2)\poker\include\quinteflush.h
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	"Card.h"
+	"Suite.h"
+	"Color.h"
+
+1622406111 source:c:\users\charl\desktop\adimaker\adi2\elec\c==\poker vbien\poker (2)\poker\src\quinteflush.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<algorithm>
+	<vector>
+	<string.h>
+	<array>
+	"QuinteFlush.h"
+	"Card.h"
+	"Suite.h"
+	"Color.h"
+
+1622409530 c:\users\charl\desktop\adimaker\adi2\elec\c==\poker vbien\poker (2)\poker\include\nommain.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<algorithm>
+	<vector>
+	<string.h>
+	<array>
+	<Card.h>
+
+1622408763 source:c:\users\charl\desktop\adimaker\adi2\elec\c==\poker vbien\poker (2)\poker\src\nommain.cpp
+
+1622403316 source:c:\users\charl\desktop\info\poker2\poker\src\brelan.cpp
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<algorithm>
+	"Brelan.h"
+	"Card.h"
+
+1622403346 c:\users\charl\desktop\info\poker2\poker\include\brelan.h
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	"Card.h"
+
+1619010618 c:\users\charl\desktop\info\poker2\poker\include\card.h
+	<iostream>
+	<vector>
+	<map>
+
+1622394771 source:c:\users\charl\desktop\info\poker2\poker\src\card.cpp
+	<stdexcept>
+	"Card.h"
+
+1622410261 source:c:\users\charl\desktop\info\poker2\poker\src\carre.cpp
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<algorithm>
+	"Carre.h"
+	"Card.h"
+
+1622410282 c:\users\charl\desktop\info\poker2\poker\include\carre.h
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	"Card.h"
+
+1622402516 source:c:\users\charl\desktop\info\poker2\poker\src\color.cpp
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<algorithm>
+	"Color.h"
+	"Card.h"
+
+1622402515 c:\users\charl\desktop\info\poker2\poker\include\color.h
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	"Card.h"
+
+1622415113 source:c:\users\charl\desktop\info\poker2\poker\src\doublepaire.cpp
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<algorithm>
+	"DoublePaire.h"
+	"Card.h"
+	"Doublet.h"
+
+1622403528 c:\users\charl\desktop\info\poker2\poker\include\doublepaire.h
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	"Card.h"
+
+1622403691 c:\users\charl\desktop\info\poker2\poker\include\doublet.h
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	"Card.h"
+
+1622404668 source:c:\users\charl\desktop\info\poker2\poker\src\doublet.cpp
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<algorithm>
+	"Doublet.h"
+	"Card.h"
+
+1622405790 source:c:\users\charl\desktop\info\poker2\poker\src\full.cpp
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<algorithm>
+	"Full.h"
+	"Card.h"
+	"Brelan.h"
+	"Doublet.h"
+
+1622405662 c:\users\charl\desktop\info\poker2\poker\include\full.h
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	"Card.h"
+
+1622406421 source:c:\users\charl\desktop\info\poker2\poker\src\hauteur.cpp
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<algorithm>
+	"Hauteur.h"
+	"Card.h"
+
+1622397464 c:\users\charl\desktop\info\poker2\poker\include\hauteur.h
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	"Card.h"
+
+1622406111 source:c:\users\charl\desktop\info\poker2\poker\src\quinteflush.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<algorithm>
+	<vector>
+	<string.h>
+	<array>
+	"QuinteFlush.h"
+	"Card.h"
+	"Suite.h"
+	"Color.h"
+
+1622405872 c:\users\charl\desktop\info\poker2\poker\include\quinteflush.h
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	"Card.h"
+	"Suite.h"
+	"Color.h"
+
+1622406226 c:\users\charl\desktop\info\poker2\poker\include\suite.h
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	"Card.h"
+
+1622406197 source:c:\users\charl\desktop\info\poker2\poker\src\suite.cpp
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<algorithm>
+	"Suite.h"
+	"Card.h"
+
+1622454745 source:c:\users\charl\desktop\info\poker2\poker\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<algorithm>
+	<vector>
+	<string.h>
+	<array>
+	"Hauteur.h"
+	"include/Card.h"
+	"Color.h"
+	"Suite.h"
+	"Doublet.h"
+	"Brelan.h"
+	"Carre.h"
+	"DoublePaire.h"
+	"Full.h"
+	"QuinteFlush.h"
+	"NomMain.h"
+
+1622409530 c:\users\charl\desktop\info\poker2\poker\include\nommain.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<algorithm>
+	<vector>
+	<string.h>
+	<array>
+	<Card.h>
+
